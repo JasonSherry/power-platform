@@ -75,7 +75,7 @@ Follow these steps to set up a Microsoft Entra app registration for an HTTP call
 
 1. Add a description and expiration in line with your organization's policies. Then select **Add**.
 
-1. Copy and paste the application (client) ID to a text document such as a Notepad file.
+1. Copy and paste the Secret ID to a text document such as a Notepad file.
 
 1. Select **Overview**, and copy and paste the application (client) ID and directory (tenant) ID values to the same text document. Be sure to make a note of which globally unique identifier (GUID) is for which value. You need these values when you configure the custom connector.
 
